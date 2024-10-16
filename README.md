@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e00db&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e00db&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+My+name+is+Emanoel+Lucas;I'm+22+years+old;I'm+from+Brazil;Studying+to+be+a+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e00db&size=35&center=true&vCenter=true&width=1000&lines=Hi!,+My+name+is+Emanoel;I'm+22+years+old;I'm+from+Brazil;Studying+to+be+a+fullstack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"  style=margin: 0px 5px 0px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EmanoelLucas27&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=EmanoelLucas27&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.instagram.com/manelluca.sl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -29,9 +29,15 @@
   <a href="https://www.linkedin.com/in/emanoel-lucas-b12591205/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="emanoellucassousalima@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+</div>
+<br>
+<div align="center">
+  <h2>emanoellucassousalima@gmail.com</h2>
+</div>
+<br>
+<div align="center">
+  <h3>Visitor Counter</h3>
+  <img src="https://profile-counter.glitch.me/EmanoelLucas27/count.svg?"  />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e00db&height=120&section=footer"/>
